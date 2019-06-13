@@ -1,0 +1,15 @@
+{
+    "name": "parzibyte/crear_word_php",
+    "description": "Trabajar con Word y PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.16.0"
+    }
+}
